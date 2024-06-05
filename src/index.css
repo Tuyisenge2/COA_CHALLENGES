@@ -133,6 +133,8 @@ html {
   top: 68%;
 }
 
+/* responsiveness  */
+
 @media (max-width: 768px) {
   .gallery {
     flex-wrap: wrap;
