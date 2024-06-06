@@ -1,5 +1,5 @@
 # COA_CHALLENGES
-
+##HOSTED Link for Gallery: https://ubiquitous-sfogliatella-0f9c01.netlify.app/
 
 ### README for Simple Gallery using HTML and CSS
 
