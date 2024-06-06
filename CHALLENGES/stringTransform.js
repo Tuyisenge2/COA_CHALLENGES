@@ -23,3 +23,7 @@ function replaceWithAscii(str) {
     .map((char) => char.charCodeAt(0))
     .join(" ");
 }
+
+console.log(transformString("Hamburger"));
+console.log(transformString("Pizza"));
+console.log(transformString("Chocolate Chip Cookie"));
